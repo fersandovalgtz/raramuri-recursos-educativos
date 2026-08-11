@@ -1,0 +1,31 @@
+resource_id: ""
+title: ""
+resource_type: ""
+version: "0.1.0"
+status: "draft"
+learning_goal: ""
+audience: ""
+level: ""
+source:
+  reference: ""
+  version_or_date: ""
+  url: ""
+variant_context: "unknown"
+authors: []
+contributors: []
+validation:
+  source_checked: false
+  technical_reviewed: false
+  speaker_reviewed: false
+  community_reviewed: false
+  notes: ""
+sensitivity: "review-required"
+rights:
+  license: ""
+  rights_owner: ""
+  third_party_materials: []
+accessibility:
+  formats: []
+  notes: ""
+reviewed_at: ""
+changelog: []

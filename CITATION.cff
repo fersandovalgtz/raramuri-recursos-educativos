@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite el recurso pedagógico específico y conserve su información de procedencia y validación."
+title: "Rarámuri · recursos educativos"
+type: software
+authors:
+  - family-names: "Sandoval Gutierrez"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0002-3168-6725"
+version: "0.2.0"
+date-released: "2026-08-10"
+repository-code: "https://github.com/fersandovalgtz/raramuri-recursos-educativos"
+keywords:
+  - rarámuri
+  - educación intercultural
+  - lenguas indígenas
+  - recursos educativos abiertos
+  - revitalización lingüística
+  - tecnología educativa

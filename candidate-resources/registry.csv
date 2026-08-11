@@ -1,0 +1,7 @@
+resource_id,title,type,period,source,status,validation,rights_notes
+RRE-0001,Rarámuri nivel inicial: Cuaderno para el docente,antecedente bibliográfico,2021,UACJ,reference-only,published-work,"Obra coautoral institucional; no republicar íntegramente sin revisar condiciones."
+RRE-0002,Mapu tamu rarámuri arí’ichabo / ra’íchabo,proyecto de recursos digitales,2020-2022,proyecto institucional,research-antecedent,project-documented,"Registrar materiales específicos antes de cualquier liberación."
+RRE-0003,Rarámuri Digital,fuente lexicográfica,2026,GitHub/Zenodo,external-source,linguistic-validation-pending,"Usar versión y condiciones del repositorio fuente."
+RRE-0004,Cuadernos infantiles,colección futura,planeado,agenda 2026+,planned,not-started,"Definir autoría, fuente, variante y validación antes de producir."
+RRE-0005,Curso inicial de lengua rarámuri,microcurso futuro,planeado,agenda 2026+,planned,not-started,"Requiere diseño pedagógico y revisión lingüística situada."
+RRE-0006,Audios de pronunciación,recurso sonoro futuro,planeado,agenda 2026+,planned,not-started,"Requiere consentimiento, variante/contexto y licencia de voz."
