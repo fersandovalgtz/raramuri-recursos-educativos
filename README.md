@@ -82,7 +82,7 @@ Un recurso revisado por una persona hablante no se presenta automáticamente com
 
 ## Ecosistema relacionado
 
-[Rarámuri Digital](https://github.com/fersandovalgtz/raramuri-digital) · [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos) · [Docencia, bienestar e inclusión](https://github.com/fersandovalgtz/docencia-bienestar-inclusion) · [Perfil científico](https://github.com/fersandovalgtz/fersandovalgtz)
+[Rarámuri Digital](https://github.com/fersandovalgtz/raramuri-digital) · [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos) · [Perfil científico](https://github.com/fersandovalgtz/fersandovalgtz)
 
 ## Responsable
 
