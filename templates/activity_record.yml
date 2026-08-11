@@ -1,0 +1,40 @@
+activity_id: ""
+title: ""
+version: "0.1.0"
+status: "draft"
+learning_goal:
+  linguistic: ""
+  cultural: ""
+audience:
+  age_or_profile: ""
+  level: ""
+duration_minutes: null
+materials: []
+source:
+  reference: ""
+  version_or_date: ""
+  lexical_items: []
+variant_context: "unknown"
+steps:
+  - order: 1
+    instruction: ""
+    evidence_of_learning: ""
+accessibility:
+  low_bandwidth: false
+  printable: false
+  multimodal_alternative: ""
+validation:
+  source_checked: false
+  technical_reviewed: false
+  speaker_reviewed: false
+  community_reviewed: false
+  notes: ""
+cultural_sensitivity:
+  status: "review-required"
+  notes: ""
+rights:
+  authors: []
+  contributors: []
+  license: ""
+  third_party_materials: []
+reviewed_at: ""
