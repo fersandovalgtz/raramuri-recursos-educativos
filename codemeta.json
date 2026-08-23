@@ -1,0 +1,28 @@
+{
+  "@context": "https://w3id.org/codemeta/3.1",
+  "@type": "SoftwareSourceCode",
+  "name": "Rarámuri · recursos educativos",
+  "description": "Infraestructura pedagógica abierta para recursos educativos vinculados con la lengua rarámuri, con procedencia, variación lingüística, validación situada y seguridad cultural documentadas.",
+  "codeRepository": "https://github.com/fersandovalgtz/raramuri-recursos-educativos",
+  "issueTracker": "https://github.com/fersandovalgtz/raramuri-recursos-educativos/issues",
+  "version": "0.2.0",
+  "datePublished": "2026-08-10",
+  "developmentStatus": "active",
+  "author": {
+    "@type": "Person",
+    "givenName": "Fernando",
+    "familyName": "Sandoval Gutierrez",
+    "@id": "https://orcid.org/0000-0002-3168-6725"
+  },
+  "keywords": [
+    "rarámuri",
+    "educación intercultural",
+    "lenguas indígenas",
+    "recursos educativos abiertos",
+    "revitalización lingüística",
+    "tecnología educativa",
+    "seguridad cultural"
+  ],
+  "citation": "CITATION.cff",
+  "readme": "https://github.com/fersandovalgtz/raramuri-recursos-educativos/blob/main/README.md"
+}
